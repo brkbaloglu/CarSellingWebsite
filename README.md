@@ -1,1 +1,5 @@
-Car Selling Website
+## Car Selling Website
+#### Using technologies in this project :
+* HTML
+* CSS
+* JavaScript
